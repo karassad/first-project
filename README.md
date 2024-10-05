@@ -13,7 +13,8 @@
 ```java
 public static void function1(){
 	System.out.println("We are good");
-}```
+}
+```
 
 ## Ссылки
 
