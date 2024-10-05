@@ -1,28 +1,28 @@
-# Шпора marksown
+# Шпора markdown
 
 ## Выделение текста
 
 Прмер _курсива_ и **жирного текста**
 
-##Заголовки
+## Заголовки
 
 ###### Самый мини заголовок
 
-##Выделение кода
+## Выделение кода
 
-```
-public statistic void function1(){
+```java
+public static void function1(){
 	System.out.println("We are good");
-}```Java
+}```
 
-##Ссылки
+## Ссылки
 
 [MyYandexPracticum](https://practicum.yandex.ru/profile/git-basics/ "My first course")
 
-##Ненумерованный список
+## Ненумерованный список
 
 * learn Java
 * learn Git
-- love ITMO
+* love ITMO
 
 
